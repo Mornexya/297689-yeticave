@@ -18,7 +18,6 @@ $bets = [
     <link href="css/style.css" rel="stylesheet">
 </head>
 <body>
-echo 1234
 
 <header class="main-header">
     <div class="main-header__container container">
